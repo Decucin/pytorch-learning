@@ -1,0 +1,11 @@
+.idea
+*/__pycache__
+*/data
+*.pth
+*.jar
+*.war
+*.nar
+*.ear
+*.zip
+*.tar.gz
+*.rar
